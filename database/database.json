@@ -1,0 +1,114 @@
+{
+  "paintColor": [
+    {
+      "id": 1,
+      "color": "Silver",
+      "price": 500
+    },
+    {
+      "id": 2,
+      "color": "Midnight Blue",
+      "price": 500
+    },
+    {
+      "id": 3,
+      "color": "Firebrick Red",
+      "price": 500
+    },
+    {
+      "id": 4,
+      "color": "Spring Green",
+      "price": 500
+    }
+  ],
+  "interior": [
+    {
+      "id": 1,
+      "material": "polyester",
+      "color": "beige",
+      "price": 3000
+    },
+    {
+      "id": 2,
+      "material": "polyester",
+      "color": "charcoal",
+      "price": 3000
+    },
+    {
+      "id": 3,
+      "material": "vinyl",
+      "color": "khaki",
+      "price": 5000
+    },
+    {
+      "id": 4,
+      "material": "vinyl",
+      "color": "umber",
+      "price": 4500
+    },
+    {
+      "id": 5,
+      "material": "leather",
+      "color": "white",
+      "price": 5000
+    },
+    {
+      "id": 6,
+      "material": "fabric",
+      "color": "black",
+      "price": 4500
+    }
+  ],
+  "technology": [
+    {
+      "id": 1,
+      "package": "basic",
+      "price": 500
+    },
+    {
+      "id": 2,
+      "package": "navigation",
+      "price": 500
+    },
+    {
+      "id": 3,
+      "package": "visibility",
+      "price": 500
+    },
+    {
+      "id": 4,
+      "package": "ultra",
+      "price": 500
+    }
+  ],
+  "wheels": [
+    {
+      "id": 1,
+      "diameter": 17,
+      "type": "Pair Radial",
+      "color": "silver",
+      "price": 500
+    },
+    {
+      "id": 2,
+      "diameter": 17,
+      "type": "Pair Radial",
+      "color": "black",
+      "price": 500
+    },
+    {
+      "id": 3,
+      "diameter": 18,
+      "type": "Pair Spoke",
+      "color": "silver",
+      "price": 500
+    },
+    {
+      "id": 4,
+      "diameter": 18,
+      "type": "Pair Spoke",
+      "color": "black",
+      "price": 500
+    }
+  ]
+}
