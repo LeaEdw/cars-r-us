@@ -1,5 +1,5 @@
 {
-  "paintColor": [
+  "paints": [
     {
       "id": 1,
       "color": "Silver",
@@ -63,22 +63,22 @@
     {
       "id": 1,
       "package": "basic",
-      "price": 500
+      "price": 1000
     },
     {
       "id": 2,
       "package": "navigation",
-      "price": 500
+      "price": 1800
     },
     {
       "id": 3,
       "package": "visibility",
-      "price": 500
+      "price": 1200
     },
     {
       "id": 4,
       "package": "ultra",
-      "price": 500
+      "price": 2500
     }
   ],
   "wheels": [
@@ -87,28 +87,28 @@
       "diameter": 17,
       "type": "Pair Radial",
       "color": "silver",
-      "price": 500
+      "price": 800
     },
     {
       "id": 2,
       "diameter": 17,
       "type": "Pair Radial",
       "color": "black",
-      "price": 500
+      "price": 1000
     },
     {
       "id": 3,
       "diameter": 18,
       "type": "Pair Spoke",
       "color": "silver",
-      "price": 500
+      "price": 1200
     },
     {
       "id": 4,
       "diameter": 18,
       "type": "Pair Spoke",
       "color": "black",
-      "price": 500
+      "price": 1600
     }
   ]
 }

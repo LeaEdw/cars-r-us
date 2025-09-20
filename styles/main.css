@@ -1,0 +1,32 @@
+@import "details.css";
+@import url("https://fonts.googleapis.com/css2?family=Protest+Guerrilla&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Protest+Guerrilla&display=swap");
+
+/*Typography
+--------------------------------------------------------------*/
+
+select,
+textarea {
+  color: #000000;
+  font-family: "Protest Guerrilla", Arial, sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+header {
+  font-family: "Protest Guerrilla", Arial, sans-serif;
+  font-size: 8vh;
+  text-align: center;
+}
+
+body,
+h2,
+h3,
+h4,
+h5,
+h6,
+button,
+input {
+  font-family: "Patua One", serif;
+  letter-spacing: 2px;
+}
