@@ -21,7 +21,7 @@
       "price": 500
     }
   ],
-  "interior": [
+  "interiors": [
     {
       "id": 1,
       "material": "polyester",
@@ -59,7 +59,7 @@
       "price": 4500
     }
   ],
-  "technology": [
+  "technologies": [
     {
       "id": 1,
       "package": "basic",
@@ -110,6 +110,21 @@
       "color": "black",
       "price": 1600
     }
-  ], 
-  "customOrders": []
+  ],
+  "customOrders": [
+    {
+      "paintId": 1,
+      "interiorId": 2,
+      "technologyId": 2,
+      "wheelId": 4,
+      "id": 1
+    },
+    {
+      "paintId": 1,
+      "interiorId": 4,
+      "technologyId": 3,
+      "wheelId": 3,
+      "id": 2
+    }
+  ]
 }

@@ -12,7 +12,7 @@ const handleInteriorChoice = (event) => {
 }
 
 export const choiceInterior = async () => {
-  const response = await fetch("http://localhost:8088/interior");
+  const response = await fetch("http://localhost:3000/interiors");
   const interiors = await response.json();
 
 // Add the event listener ...
@@ -23,7 +23,7 @@ document.addEventListener("change", handleInteriorChoice)
 
   const interiorsHTML = interiors.map((interior) => {
     return `
-            <div>
+            <div class="order-item">
                 <input 
                     type="radio" 
                     name="interior" 
